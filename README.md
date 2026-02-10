@@ -22,7 +22,7 @@
 
 I am a **Computer Science Researcher** and Final-year Undergraduate at **Vellore Institute of Technology, AP**, specializing in **Artificial Intelligence and Machine Learning**.
 
-I bridge the gap between academic research and software engineering. Recently, I authored a paper published in an **IEEE Journal**, focusing on **AI-driven Video Text Translation** systems.
+I bridge the gap between academic research and software engineering. Recently, I authored a paper published in an **<a href="https://ieeexplore.ieee.org/document/YOUR_LINK_HERE" target="_blank">IEEE Journal</a>**, focusing on **AI-driven Video Text Translation** systems.
 
 <br/>
 
@@ -116,17 +116,17 @@ I bridge the gap between academic research and software engineering. Recently, I
 <h3 align="center">🎥 VidTranscribe</h3>
 <div align="center">
 <p>
-<i>IEEE Published Research</i>
+<i><a href="https://ieeexplore.ieee.org/document/11354246" target="_blank">IEEE</a> Published Research</i>
 </p>
 <p>
 AI-based video text translation system using EasyOCR, OpenCV inpainting, and PIL.
 </p>
 <p>
-✔ <b>IEEE Publication</b><br>
+✔ <b><a href="https://ieeexplore.ieee.org/document/YOUR_LINK_HERE" target="_blank">IEEE Publication</a></b><br>
 ✔ <b>82.19% SSIM</b> for video quality
 </p>
 <p>
-<img src="https://img.shields.io/badge/IEEE-Publication-blue?style=flat-square">
+<a href="https://ieeexplore.ieee.org/document/YOUR_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/IEEE-Publication-blue?style=flat-square"></a>
 <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
 </p>
@@ -197,6 +197,7 @@ Personal portfolio websites built and deployed using pure HTML & CSS.
 | <img src="https://img.icons8.com/color/18/000000/amazon-web-services.png"/> **AWS Certified Cloud Practitioner** | Amazon Web Services | 2025 |
 | <img src="https://img.icons8.com/color/18/000000/ibm.png"/> **Machine Learning with Python** | IBM / edX | 2024 |
 | <img src="https://img.icons8.com/color/18/000000/oracle-logo.png"/> **Java Foundations Associate** | Oracle | 2024 |
+| <img src="https://img.icons8.com/color/18/000000/udemy.png"/> **The Complete Web Development Bootcamp** | Udemy | 2024 |
 | <img src="https://img.icons8.com/color/18/000000/google-logo.png"/> **Google AI for Anyone** | Google / edX | 2024 |
 
 <br/>
