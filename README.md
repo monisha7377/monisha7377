@@ -122,11 +122,11 @@ I bridge the gap between academic research and software engineering. Recently, I
 AI-based video text translation system using EasyOCR, OpenCV inpainting, and PIL.
 </p>
 <p>
-✔ <b><a href="https://ieeexplore.ieee.org/document/YOUR_LINK_HERE" target="_blank">IEEE Publication</a></b><br>
+✔ <b><a href="https://ieeexplore.ieee.org/document/11354246">IEEE Publication</a></b><br>
 ✔ <b>82.19% SSIM</b> for video quality
 </p>
 <p>
-<a href="https://ieeexplore.ieee.org/document/YOUR_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/IEEE-Publication-blue?style=flat-square"></a>
+<a href="https://ieeexplore.ieee.org/document/11354246" target="_blank"><img src="https://img.shields.io/badge/IEEE-Publication-blue?style=flat-square"></a>
 <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
 </p>
