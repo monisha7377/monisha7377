@@ -22,7 +22,7 @@
 
 I am a **Computer Science Researcher** and Final-year Undergraduate at **Vellore Institute of Technology, AP**, specializing in **Artificial Intelligence and Machine Learning**.
 
-I bridge the gap between academic research and software engineering. Recently, I authored a paper published in an **IEEE Journal**, working with a dedicated research team to solve complex problems in grading automation.
+I bridge the gap between academic research and software engineering. Recently, I authored a paper published in an **IEEE Journal**, focusing on **AI-driven Video Text Translation** systems.
 
 <br/>
 
@@ -33,13 +33,13 @@ I bridge the gap between academic research and software engineering. Recently, I
       <ul>
         <li>Building scalable <b>AI-driven Computer Vision</b> systems.</li>
         <li>Developing full-stack applications using the <b>MERN Stack</b>.</li>
-        <li>Researching <b>Automated Grading Systems (ASAG)</b> using NLP.</li>
+        <li>Researching <b>Reinforcement Learning</b> for optimization.</li>
       </ul>
     </td>
     <td valign="top" width="50%">
       <h3><img src="https://img.icons8.com/material-outlined/24/34A853/handshake.png" valign="bottom"/> Collaboration</h3>
       <ul>
-        <li>Open to <b>Research Collaborations</b> in NLP & RL.</li>
+        <li>Open to <b>Research Collaborations</b> in CV & NLP.</li>
         <li>Contributing to open-source <b>Generative AI</b> tools.</li>
         <li>Reach me for <b>MERN</b> or <b>Data Science</b> roles.</li>
       </ul>
@@ -113,41 +113,26 @@ I bridge the gap between academic research and software engineering. Recently, I
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">📄 Automated Short Answer Grading (ASAG)</h3>
+<h3 align="center">🎥 VidTranscribe</h3>
 <div align="center">
 <p>
-<i>Current Research Project</i>
+<i>IEEE Published Research</i>
 </p>
 <p>
-An advanced NLP system designed to automate the grading of short descriptive answers with human-level accuracy.
+AI-based video text translation system using EasyOCR, OpenCV inpainting, and PIL.
 </p>
 <p>
-<img src="https://img.shields.io/badge/NLP-Research-4285F4?style=flat-square">
+✔ <b>IEEE Publication</b><br>
+✔ <b>82.19% SSIM</b> for video quality
+</p>
+<p>
 <img src="https://img.shields.io/badge/IEEE-Publication-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
 </p>
 </div>
 </td>
 
-<td width="50%">
-<h3 align="center">🎥 VidTranscribe</h3>
-<div align="center">
-<p>
-AI-based video text translation and replacement system using OCR and Inpainting.
-</p>
-<p>
-✔ <b>82.19% SSIM</b> for video quality<br>
-✔ <b>61.81%</b> OCR accuracy
-</p>
-<p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square">
-<img src="https://img.shields.io/badge/EasyOCR-black?style=flat-square">
-</p>
-</div>
-</td>
-</tr>
-
-<tr>
 <td width="50%">
 <h3 align="center">💬 Sentiment Analysis (Hybrid)</h3>
 <div align="center">
@@ -158,12 +143,15 @@ Hybrid deep learning model (LSTM + CNN) for movie review sentiment classificatio
 ✔ Test Accuracy: <b>87.9%</b>
 </p>
 <p>
+<br>
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square">
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square">
 </p>
 </div>
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 <h3 align="center">🚦 Traffic Signal Control (RL)</h3>
 <div align="center">
@@ -174,8 +162,26 @@ Reinforcement Learning agent for intelligent traffic signal optimization using D
 ✔ Reduced wait time by <b>15%</b>
 </p>
 <p>
+<br>
 <img src="https://img.shields.io/badge/Reinforcement%20Learning-34A853?style=flat-square">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square">
+</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🌐 Web Development Portfolios</h3>
+<div align="center">
+<p>
+Personal portfolio websites built and deployed using pure HTML & CSS.
+</p>
+<p>
+✔ Responsive Design
+</p>
+<p>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square">
 </p>
 </div>
 </td>
