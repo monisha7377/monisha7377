@@ -22,7 +22,7 @@
 
 I am a **Computer Science Researcher** and Final-year Undergraduate at **Vellore Institute of Technology, AP**, specializing in **Artificial Intelligence and Machine Learning**.
 
-I bridge the gap between academic research and software engineering. Recently, I authored a paper published in an **<a href="https://ieeexplore.ieee.org/document/YOUR_LINK_HERE" target="_blank">IEEE Journal</a>**, focusing on **AI-driven Video Text Translation** systems.
+I bridge the gap between academic research and software engineering. Recently, I authored a paper published in an **<a href="https://ieeexplore.ieee.org/document/11354246" target="_blank">IEEE Journal</a>**, focusing on **AI-driven Video Text Translation** systems.
 
 <br/>
 
