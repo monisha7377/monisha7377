@@ -12,21 +12,17 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22"/> About Me
+## <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/person/v14/24px.svg"/> About Me
 
-Final-year **Computer Science undergraduate** at **Vellore Institute of Technology, AP**, specializing in  
-**Artificial Intelligence and Machine Learning**.
+Final-year **Computer Science undergraduate** at **Vellore Institute of Technology, AP**,  
+specializing in **Artificial Intelligence and Machine Learning**.
 
-Focused on building **AI-driven systems**, solving problems using **Data Structures & Algorithms**,  
-and applying **Machine Learning and Reinforcement Learning** to real-world problems.
-
-- Interested in AI/ML, NLP, Computer Vision, Reinforcement Learning  
-- AWS Certified Cloud Practitioner  
-- Open to internships, research, and open-source collaboration  
+I focus on building **AI-driven systems**, strong **DSA-based solutions**, and applying  
+**Machine Learning & Reinforcement Learning** to real-world problems.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22"/> Tech Stack
+## <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/code/v14/24px.svg"/> Tech Stack
 
 <table>
 <tr>
@@ -68,36 +64,40 @@ and applying **Machine Learning and Reinforcement Learning** to real-world probl
 
 ---
 
-## <img src="https://img.shields.io/badge/Projects-000000?style=flat&logo=github"/> Projects
+## <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/rocket_launch/v14/24px.svg"/> Projects
 
-### VidTranscribe – AI-Based Video Text Translation
-- OCR using **EasyOCR**, text removal via **OpenCV inpainting**
-- Achieved **61.81% OCR accuracy**, **55.02 BLEU score**
-- Maintained **82.19% SSIM** video quality
+### <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/movie/v14/20px.svg"/> VidTranscribe  
+AI-based video text translation and replacement system using **EasyOCR** and **OpenCV**.
+
+- OCR Accuracy: **61.81%**
+- BLEU Score: **55.02**
+- SSIM: **82.19%**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 
 ---
 
-### Sentiment Analysis using Hybrid LSTM + CNN
-- Deep learning model for movie review classification
-- Achieved **87.9% test accuracy**
+### <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/psychology/v14/20px.svg"/> Sentiment Analysis (LSTM + CNN)
+Hybrid deep learning model for movie review classification.
+
+- Test Accuracy: **87.9%**
 
 <img src="https://img.shields.io/badge/Deep%20Learning-black?style=flat"/>
 <img src="https://img.shields.io/badge/NLP-blue?style=flat"/>
 
 ---
 
-### Traffic Signal Control using Deep-Q Learning
-- RL agent for adaptive traffic signal control
-- Reduced vehicle wait time by **15%**
+### <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/traffic/v14/20px.svg"/> Traffic Signal Control (DQL)
+Deep-Q Learning agent for adaptive traffic signal management.
+
+- Reduced average waiting time by **15%**
 
 <img src="https://img.shields.io/badge/Reinforcement%20Learning-purple?style=flat"/>
 
 ---
 
-## <img src="https://img.shields.io/badge/Certifications-222222?style=flat&logo=amazonaws"/> Certifications
+## <img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/verified/v14/24px.svg"/> Certifications
 
 - AWS Certified Cloud Practitioner (2025)
 - Machine Learning with Python – IBM / edX
