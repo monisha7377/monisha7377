@@ -1,167 +1,106 @@
-# Hi there, I'm Monisha Dusanapudi 👋
+# Hi there, I'm Monisha Dusanapudi
 
 <a href="https://www.linkedin.com/in/monisha-dusanapudi-66b4a8323/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/monisha7377" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:monisha.dusanapudi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 ---
 
-### 🚀 Software Engineering Undergraduate | AI & ML Enthusiast | AWS Certified
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22"/> About Me
 
-Final-year **Computer Science undergraduate at Vellore Institute of Technology, AP**, specializing in **Artificial Intelligence and Machine Learning**.  
-I enjoy building **AI-driven systems**, solving problems using **data structures and algorithms**, and applying **machine learning & reinforcement learning** to real-world challenges.
+Final-year **Computer Science undergraduate** at **Vellore Institute of Technology, AP**, specializing in  
+**Artificial Intelligence and Machine Learning**.
 
-- 🔭 Currently working on AI-based vision & NLP projects  
-- 🌱 Exploring Reinforcement Learning, GenAI, and scalable ML pipelines  
-- 👯 Open to collaborating on AI/ML, CV, NLP, and open-source projects  
-- 📫 Reach me at: **monisha.dusanapudi@gmail.com**
+Focused on building **AI-driven systems**, solving problems using **Data Structures & Algorithms**,  
+and applying **Machine Learning and Reinforcement Learning** to real-world problems.
 
----
-
-### 🛠️ My Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65"/>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65"/>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65"/>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/>
-      <br>AWS
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65"/>
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" height="65"/>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="65" height="65"/>
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65"/>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65"/>
-      <br>CSS3
-    </td>
-  </tr>
-</table>
+- Interested in AI/ML, NLP, Computer Vision, Reinforcement Learning  
+- AWS Certified Cloud Practitioner  
+- Open to internships, research, and open-source collaboration  
 
 ---
 
-### 🚀 My Projects
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22"/> Tech Stack
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">🎥 VidTranscribe</h3>
-<div align="center">
-<p>
-AI-based video text translation and replacement system using EasyOCR, OpenCV inpainting, and PIL.
-</p>
-<p>
-✔ 61.81% OCR accuracy<br>
-✔ 55.02 BLEU score<br>
-✔ 82.19% SSIM for video quality
-</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/EasyOCR-black?style=for-the-badge">
-</p>
-</div>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/><br>Python
 </td>
-
-<td width="50%">
-<h3 align="center">💬 Sentiment Analysis (LSTM + CNN)</h3>
-<div align="center">
-<p>
-Hybrid deep learning model for movie review sentiment classification.
-</p>
-<p>
-✔ Test Accuracy: <b>87.9%</b><br>
-✔ Combines LSTM for sequence learning and CNN for feature extraction
-</p>
-<p>
-<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
-</div>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/><br>Java
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/><br>Git
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55"/><br>AWS
 </td>
 </tr>
 
 <tr>
-<td width="50%">
-<h3 align="center">🚦 Traffic Signal Control (Deep-Q Learning)</h3>
-<div align="center">
-<p>
-Reinforcement Learning agent for intelligent traffic signal optimization.
-</p>
-<p>
-✔ Reduced average vehicle wait time by <b>15%</b><br>
-✔ Trained over 30 simulation episodes
-</p>
-<p>
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/DQL-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
-</div>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/><br>NumPy
 </td>
-
-<td width="50%">
-<h3 align="center">🌐 Web Development Portfolios</h3>
-<div align="center">
-<p>
-Personal portfolio websites built and deployed using pure HTML & CSS.
-</p>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
-</div>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/><br>Pandas
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55"/><br>OpenCV
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/><br>HTML5
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/><br>CSS3
 </td>
 </tr>
 </table>
 
 ---
 
-### 🏆 Certifications
+## <img src="https://img.shields.io/badge/Projects-000000?style=flat&logo=github"/> Projects
 
-- 🟢 **AWS Certified Cloud Practitioner** (2025)  
-- 🟢 **Machine Learning with Python** – IBM / edX (2024)  
-- 🟢 **Java Foundations Associate** – Oracle (2024)  
-- 🟢 **The Complete Web Development Bootcamp** – Udemy (2024)  
-- 🟢 **Google AI for Anyone** – Google / edX (2024)
+### VidTranscribe – AI-Based Video Text Translation
+- OCR using **EasyOCR**, text removal via **OpenCV inpainting**
+- Achieved **61.81% OCR accuracy**, **55.02 BLEU score**
+- Maintained **82.19% SSIM** video quality
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+### Sentiment Analysis using Hybrid LSTM + CNN
+- Deep learning model for movie review classification
+- Achieved **87.9% test accuracy**
+
+<img src="https://img.shields.io/badge/Deep%20Learning-black?style=flat"/>
+<img src="https://img.shields.io/badge/NLP-blue?style=flat"/>
+
+---
+
+### Traffic Signal Control using Deep-Q Learning
+- RL agent for adaptive traffic signal control
+- Reduced vehicle wait time by **15%**
+
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-purple?style=flat"/>
+
+---
+
+## <img src="https://img.shields.io/badge/Certifications-222222?style=flat&logo=amazonaws"/> Certifications
+
+- AWS Certified Cloud Practitioner (2025)
+- Machine Learning with Python – IBM / edX
+- Java Foundations Associate – Oracle
+- The Complete Web Development Bootcamp – Udemy
+- Google AI for Anyone – Google / edX
